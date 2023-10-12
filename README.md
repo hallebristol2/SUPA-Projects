@@ -1,7 +1,6 @@
 # SUPA-Projects
-These projects were created in 2016 in high school for the Syracuse University Project Advance (SUPA) Computer Engineering course.
-Led by Matthew Harbinger, the course taught fundamental programming and computational math skills using Java in the Eclipse IDE, except for P_BallArrayList, which was created in Processing V3.
-
+<p>These projects were created in 2016 in high school for the Syracuse University Project Advance (SUPA) Computer Engineering course.
+Led by Matthew Harbinger, the course taught fundamental programming and computational math skills using Java in the Eclipse IDE, except for P_BallArrayList, which was created in Processing V3.</p>
 # Goals
 <p>LoopLab2 – Master loops by computing factorials, pi, radicals, and square roots of numbers.</p>
 <p>P_BallArrayList — Spawn circles in a random color at a random velocity that:
